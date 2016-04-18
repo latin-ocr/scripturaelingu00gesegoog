@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scripturaelingu00gesegoog_0540.png"; bbox 0 0 1425 1765; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 957 134 1297 1661">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 957 134 1297 1661">
+     <span class='ocr_line' id='line_1_1' title="bbox 1163 134 1297 1661; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 1163 134 1297 1661; x_wconf 34' lang='lat' dir='ltr'><em>5⁶504³⁷½smesswm&gt;ffl[Jsp</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 957 240 1166 1632; textangle 270"><span class='ocrx_word' id='word_1_2' title='bbox 960 240 1099 284; x_wconf 76' lang='lat'><em>⁹7</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1038 332 1133 383; x_wconf 40' lang='grc' dir='ltr'>ἐ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1029 428 1145 461; x_wconf 66' lang='grc' dir='ltr'>Ξ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1043 520 1122 590; x_wconf 48' lang='lat'><em>³⁴&gt;</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 957 619 1114 676; x_wconf 43' lang='grc' dir='ltr'><em>ἓ)</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1057 715 1088 776; x_wconf 51' lang='lat'><em>‘¹³</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 985 805 1166 1029; x_wconf 58' lang='grc' dir='ltr'>ἔΞεῑ</span> <span class='ocrx_word' id='word_1_9' title='bbox 1040 1059 1130 1113; x_wconf 57' lang='lat'>6</span> <span class='ocrx_word' id='word_1_10' title='bbox 965 1146 1154 1347; x_wconf 45' lang='lat'><em>2⁷47</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1008 1390 1136 1632; x_wconf 43' lang='lat' dir='ltr'><em>Am</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 104 231 499 1658">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 104 231 499 1658">
+     <span class='ocr_line' id='line_1_3' title="bbox 368 468 499 1206; textangle 270"><span class='ocrx_word' id='word_1_12' title='bbox 368 468 490 702; x_wconf 49' lang='lat' dir='ltr'><em>lm</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 382 778 476 966; x_wconf 49' lang='grc' dir='ltr'><strong>Μ</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 370 1014 499 1206; x_wconf 49' lang='grc' dir='ltr'><em>έν</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 104 231 265 1658; textangle 270"><span class='ocrx_word' id='word_1_15' title='bbox 149 231 228 485; x_wconf 47' lang='lat' dir='ltr'><em>mm</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 159 541 238 748; x_wconf 43' lang='lat' dir='ltr'><em>mx&gt;</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 104 793 265 1350; x_wconf 38' lang='lat' dir='ltr'><em>§maffia</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 149 1314 257 1658; x_wconf 48' lang='grc'><em>44464</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
